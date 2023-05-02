@@ -1,4 +1,4 @@
-# jumper-assignment-JoeriL
+# jumper-assignment-Joeri Lommers
 jumper-assignment-JoeriL created by GitHub Classroom
 
 # making level
